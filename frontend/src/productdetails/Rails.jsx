@@ -1,5 +1,5 @@
 import Rails1 from '../assets/rails-for-industry.png';
-import Rails2 from '../assets/rails.png';
+import Rails2 from '../assets/Rails.png';
 import Rails3 from '../assets/rail3.png';
 
 import React, { useState } from 'react';
